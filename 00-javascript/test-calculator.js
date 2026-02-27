@@ -1,6 +1,6 @@
 'use strict';
 
-const Calculator = require('./calculator');
+const Calculator = require('./day1-calculator');
 
 console.log('=== Test 1: Basic chaining ===');
 const calc1 = new Calculator();
